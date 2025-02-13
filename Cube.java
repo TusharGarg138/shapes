@@ -1,7 +1,6 @@
 // Cube.java
 
 import java.lang.*;
-
 class Cube extends Shape{
 
 	public Cube(double side){
