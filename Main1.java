@@ -1,7 +1,4 @@
-// Main1.java
-// Name: Veeraj sahu
-// PRN: 23070126145
-// Batch: Aiml b-3
+// Main.java
 import java.util.*;
 
 class Main1 {
